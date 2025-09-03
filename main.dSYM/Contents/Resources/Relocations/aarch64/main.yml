@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/hamzabutt/Datatyper /Første spil/Progamering Uni/main"
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _Control, symObjAddr: 0x0, symBinAddr: 0x100003D70, symSize: 0x60 }
+  - { offset: 0x41, size: 0x8, addend: 0x0, symName: _Control, symObjAddr: 0x0, symBinAddr: 0x100003D70, symSize: 0x60 }
+  - { offset: 0x77, size: 0x8, addend: 0x0, symName: _Test, symObjAddr: 0x60, symBinAddr: 0x100003DD0, symSize: 0x140 }
+  - { offset: 0xC5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1A0, symBinAddr: 0x100003F10, symSize: 0x50 }
+...
